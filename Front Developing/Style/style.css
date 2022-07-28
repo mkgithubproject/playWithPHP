@@ -1,0 +1,217 @@
+.art-board-content {
+  padding: 30px;
+}
+#art-board img{
+  height: 75px;
+}
+#top-header li a{
+    font: normal normal medium 16px/21px Montserrat;
+letter-spacing: 0px;
+color: #47474B;
+opacity: 1;
+}
+
+.board-content h3 {
+  text-align: left;
+  font: normal normal normal 22px/30px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.board-content h2 {
+  font: normal normal medium 30px/31px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.board-content a {
+  margin-top: 10px;
+}
+
+.board-button {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 3px;
+  opacity: 1;
+  color: black;
+}
+#group {
+  margin-top: 20px;
+}
+#group h2 {
+  font: normal normal medium 40px/39px Montserrat;
+  letter-spacing: 0px;
+  color: #47474b;
+  opacity: 1;
+}
+#group p {
+  font: normal normal normal 20px/39px Montserrat;
+  letter-spacing: 0px;
+  color: #47474b;
+  opacity: 1;
+  text-align: left;
+  font-size: 15px;
+  line-height: 1.6;
+}
+#services h2,
+h3 {
+  font: normal normal medium 40px/39px Montserrat;
+  letter-spacing: 0px;
+  color: #47474b;
+  opacity: 1;
+}
+#services p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+#contact {
+  background-image: linear-gradient(97deg, #0f80ff, #0acfdd);
+}
+.feed-div {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 16px 45px #0000000f;
+  border-radius: 3px;
+  opacity: 1;
+}
+#feedback h2 {
+  font: normal normal medium 40px/39px Montserrat;
+  letter-spacing: 0px;
+  color: #47474b;
+  opacity: 1;
+}
+@media only screen and (min-width: 767px){
+.qoutes{
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 80px;
+    line-height: 25px;
+    position: absolute;
+     left: 55px;
+     top: 43px;
+   margin-top: 0px;
+    letter-spacing: 0px;
+    color: #47474B;
+    opacity: 0.5;
+}}
+@media only screen and (max-width: 767px){
+  .qoutes{
+      font-style: normal;
+      font-variant-ligatures: normal;
+      font-variant-caps: normal;
+      font-variant-numeric: normal;
+      font-variant-east-asian: normal;
+      font-weight: normal;
+      font-stretch: normal;
+      font-size: 30px;
+      line-height: 25px;
+      position: absolute;
+       left: 20px;
+       top: 5px;
+     margin-top: 0px;
+      letter-spacing: 0px;
+      color: #47474B;
+      opacity: 0.5;
+  }}
+
+.user-name {
+  padding-top: 30px;
+  padding-left: 100px;
+  font: normal normal medium 18px/35px Montserrat;
+  letter-spacing: 0px;
+  color: #47474b;
+  opacity: 0.5;
+}
+#brand h2 {
+  text-align: left;
+  font: normal normal medium 40px/39px Montserrat;
+  letter-spacing: 0px;
+  color: #47474b;
+  opacity: 1;
+}
+.brand-img {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 11px 24px #00000014;
+  opacity: 1;
+  padding: 20px;
+  height: 100px;
+}
+#footer {
+  background-color: #1b232c;
+}
+#footer h3 {
+  font: normal normal medium 20px/38px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  font-size: 20px;
+}
+#footer a {
+  font: normal normal normal 16px/38px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+ 
+  margin-bottom: 5px;
+  font-size: 14px;
+  text-decoration: none;
+}
+.bottom-footer p {
+  text-align: center;
+  font: normal normal normal 14px/37px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 0.6;
+  margin: 0px;
+}
+.top-footer {
+  border-bottom: 1px solid rgb(60, 63, 62);
+}
+.top-footer h3 {
+  color: #ffffff;
+}
+.link-border{
+    border: 1px solid #47474B;
+opacity: 1;
+width: 50px;
+}
+@media only screen and (min-width: 768px) {
+  .board-content {
+    background-image: linear-gradient(239deg, #0f80ff, #084080);
+    padding: 15px;
+    opacity: 95%;
+    width: 100%;
+    height: 200px;
+    max-width: 380px;
+  }
+  .board {
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    right: 0px;
+    transform: translateY(-50%);
+  }
+}
+@media only screen and (max-width: 767px) {
+  .board-content {
+    padding: 15px;
+  }
+  .board {
+    position: static;
+    background-image: linear-gradient(239deg, #0f80ff, #084080);
+  }
+}
+span {
+  vertical-align: middle;
+}
+.font-icon {
+  color: #47474b;
+  font-size: 1.9rem;
+}
+#switchboard img{
+   object-fit: cover;
+   max-height: 600px;
+}

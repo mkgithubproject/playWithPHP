@@ -1,0 +1,31 @@
+ans 4
+select customers. Customer_name 
+     from  customers
+     LEFT JOIN orders
+     ON  customers.Customer_id =orders.Customer_id
+     AND status=1
+     WHERE orders.Customer_id IS NULL 
+
+ans 5
+ select  Customer_name,count( orders.Customer_id) AS order_count from customers LEFT JOIN orders
+          ON customers.Customer_id=orders.Customer_id
+     AND status=1 
+    
+     GROUP BY Customer_name
+   HAVING order_count>2;
+     
+
+ans2 
+ select  Customer_name,count( orders.Customer_id) from customers LEFT JOIN orders
+          ON customers.Customer_id=orders.Customer_id
+     AND status=1
+     GROUP BY Customer_name
+     ORDER BY 2 DESC;
+ans3
+ select  Customer_name,SUM(Total_amount ) from customers INNER JOIN orders
+     ON customers.Customer_id=orders.Customer_id
+     AND status=1
+     GROUP BY Customer_name
+     ORDER BY 2 DESC;
+ans 1
+ select DISTINCT customers.Customer_id ,Customer_name,Email from customers INNER JOIN orders ON customers.Customer_id=orders.Customer_id AND status=1;

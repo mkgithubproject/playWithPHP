@@ -1,0 +1,314 @@
+#
+#   HRD Logbook version 6.4.0.902, Copyright © 2005 - 2018 by HRD Software, LLC
+#   http://www.HamRadioDeluxe.com/
+#
+#   Created:  20181117 142220
+#
+#--
+
+<ADIF_VERS:3>2.2
+<PROGRAMID:14>HamRadioDeluxe
+<PROGRAMVERSION:17>Version 6.4.0.902
+<CREATED_TIMESTAMP:15>20181117 142220
+<EOH>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>40m <band_rx:3>40m <call:4>VP6D <cnty:4>Pima <comment:23>FT8 Sent: -03 Rcvd: -06 
+<cont:2>OC <country:9>Ducie Is. <cqz:2>32 <distance:8>7801.852 <dxcc:3>513 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<force_init:1>N <freq:8>7.056305 <gridsquare:4>CG75 <ituz:2>63 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>FT8 <my_city:8>Marietta <my_cnty:4>Cobb <my_gridsquare:6>EM74sb 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>-06 
+<rst_sent:3>-03 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>024900 
+<time_on:6>024800 <tx_pwr:8>1500.000 <hrdcountryno:3>513 <qso_date:8>20181031 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>15m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>21.077790 
+<iota:6>OC-182 <k_index:3>1.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:4>RTTY <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:4>67.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>221753 <time_on:6>221753 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181030 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>12m <band_rx:3>12m <call:4>VP6D <cnty:4>Pima <comment:23>FT8 Sent: -06 Rcvd: +07 
+<cont:2>OC <country:9>Ducie Is. <cqz:2>32 <distance:9>13695.108 <dxcc:3>513 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<force_init:1>N <freq:9>24.911387 <gridsquare:4>KG43 <ituz:2>63 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>FT8 <my_city:8>Marietta <my_cnty:4>Cobb <my_gridsquare:6>EM74sb 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>+07 
+<rst_sent:3>-06 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>215800 
+<time_on:6>215800 <tx_pwr:8>1500.000 <hrdcountryno:3>513 <qso_date:8>20181030 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>17m <band_rx:3>17m <call:4>VP6D <cnty:4>Pima <comment:23>FT8 Sent: -06 Rcvd: +02 
+<cont:2>OC <country:9>Ducie Is. <cqz:2>32 <distance:9>13695.108 <dxcc:3>513 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<force_init:1>N <freq:9>18.095634 <gridsquare:4>KG43 <ituz:2>63 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>FT8 <my_city:8>Marietta <my_cnty:4>Cobb <my_gridsquare:6>EM74sb 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>+02 
+<rst_sent:3>-06 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>151700 
+<time_on:6>151700 <tx_pwr:8>1500.000 <hrdcountryno:3>513 <qso_date:8>20181030 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>17m <band_rx:3>17m <call:4>VP6D <cnty:4>Pima <comment:23>FT8 Sent: -06 Rcvd: +02 
+<cont:2>OC <country:9>Ducie Is. <cqz:2>32 <distance:9>13695.108 <dxcc:3>513 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<force_init:1>N <freq:9>18.095334 <gridsquare:4>KG43 <ituz:2>63 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>FT8 <my_city:8>Marietta <my_cnty:4>Cobb <my_gridsquare:6>EM74sb 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>+02 
+<rst_sent:3>-06 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>151500 
+<time_on:6>151500 <tx_pwr:8>1500.000 <hrdcountryno:3>513 <qso_date:8>20181030 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>17m <band_rx:3>17m <call:4>VP6D <cnty:4>Pima <comment:23>FT8 Sent: -06 Rcvd: +02 
+<cont:2>OC <country:9>Ducie Is. <cqz:2>32 <distance:9>13695.108 <dxcc:3>513 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<force_init:1>N <freq:9>18.095334 <gridsquare:4>KG43 <ituz:2>63 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>FT8 <my_city:8>Marietta <my_cnty:4>Cobb <my_gridsquare:6>EM74sb 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>+02 
+<rst_sent:3>-06 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>151500 
+<time_on:6>151300 <tx_pwr:8>1500.000 <hrdcountryno:3>513 <qso_date:8>20181030 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>4.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>30m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>10.105000 
+<iota:6>OC-182 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:2>CW <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>68.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>030403 <time_on:6>030403 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181029 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>4.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>40m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:8>7.010000 
+<iota:6>OC-182 <k_index:3>2.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:2>CW <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>69.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>034817 <time_on:6>034817 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181028 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>10m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>28.485000 
+<iota:6>OC-182 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:3>SSB <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>69.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>210036 <time_on:6>210036 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181027 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>17m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>18.098580 
+<iota:6>OC-182 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:4>RTTY <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>69.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>203507 <time_on:6>203507 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181027 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>10m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>28.023050 
+<iota:6>OC-182 <k_index:3>2.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:2>CW <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>69.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>215237 <time_on:6>215237 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181025 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>4.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>12m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>24.955000 
+<iota:6>OC-182 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:3>SSB <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:4>72.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>211926 <time_on:6>211926 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181024 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>4.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>12m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>24.955000 
+<iota:6>OC-182 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:3>SSB <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:4>72.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>211730 <time_on:6>211730 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181024 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>4.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>15m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>21.285000 
+<iota:6>OC-182 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:3>SSB <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:4>72.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>200959 <time_on:6>200959 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181024 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>4.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>20m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>14.023000 
+<iota:6>OC-182 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:2>CW <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>72.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>220658 <time_on:6>220658 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181023 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>4.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>12m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>24.891000 
+<iota:6>OC-182 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:2>CW <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>72.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>215757 <time_on:6>215757 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181023 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>17m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>18.130000 
+<iota:6>OC-182 <k_index:3>1.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:3>SSB <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:4>71.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>182945 <time_on:6>182945 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181023 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>20m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>14.185000 
+<iota:6>OC-182 <k_index:3>1.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:3>SSB <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:4>71.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>175759 <time_on:6>175759 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181023 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>6.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>15m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>21.022970 
+<iota:6>OC-182 <k_index:3>1.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:2>CW <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>71.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>173318 <time_on:6>173318 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181023 <EOR>
+
+<a_index:3>0.0 <ant_az:3>0.0 <ant_el:3>0.0 <band:3>20m <band_rx:3>20m <call:4>VP6D <cnty:4>Pima <comment:23>FT8 Sent: -18 Rcvd: +00 
+<cont:2>OC <country:9>Ducie Is. <cqz:2>32 <distance:8>8190.631 <dxcc:3>513 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<force_init:1>N <freq:9>14.090312 <gridsquare:4>JN97 <ituz:2>63 <k_index:3>0.0 <lat:11>N000 00.000 <lon:11>E000 00.000 
+<lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>FT8 <my_city:8>Marietta <my_cnty:4>Cobb <my_gridsquare:6>EM74sb 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_sent:1>N <qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>+00 
+<rst_sent:3>-18 <rx_pwr:3>0.0 <sfi:3>0.0 <state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>204600 
+<time_on:6>204500 <tx_pwr:8>1500.000 <hrdcountryno:3>513 <qso_date:8>20181022 <EOR>
+
+<address:57>Ducie 2018 LLC
+PO Box 69965
+Tucson
+AZ 85737
+United States <a_index:3>5.0 <ant_az:3>0.0 <ant_el:3>0.0 
+<ant_path:1>S <band:3>17m <call:4>VP6D <cnty:4>Pima <cont:2>OC <country:9>Ducie Is. <distance:8>7803.854 
+<dxcc:3>513 <email:13>info@vp6d.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>18.069000 
+<iota:6>OC-182 <k_index:3>1.0 <lat:11>N000 00.000 <lon:11>E000 00.000 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N 
+<mode:2>CW <my_city:8>Marietta <my_cnty:4>Cobb <my_cq_zone:1>8 <my_gridsquare:6>EM74sb <my_itu_zone:1>5 
+<my_lat:11>N034 03.750 <my_lon:11>W084 27.500 <my_name:4>Neil <my_postal_code:10>30066-8800 <my_rig:38>Yaesu FT-5000, Yaesu FT-3000, Alpha 99 
+<my_state:2>GA <my_street:21>4504 Outlook drive NE <name:14>Ducie 2018 LLC <operator:4>N4FN <owner_callsign:11>NEIL FOSTER 
+<pfx:3>VP6 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:31>Log and OQRS will be at vp6d.co 
+<qso_complete:1>Y <qso_random:1>N <qth:6>Tucson <rst_rcvd:3>599 <rst_sent:3>599 <rx_pwr:3>0.0 <sfi:4>71.0 
+<state:2>AZ <station_callsign:4>N4FN <swl:1>N <time_off:6>000009 <time_on:6>000009 <tx_pwr:8>1500.000 
+<hrdcountryno:3>513 <qso_date:8>20181022 <EOR>
+

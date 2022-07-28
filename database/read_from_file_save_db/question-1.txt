@@ -1,0 +1,32 @@
+1.make a select query to print numbers from 1 to 100
+Method 1
+
+; with CTE as  
+(  
+ select 1 Number  
+ union all  
+ select Number +1 from CTE where Number<100  
+)  
+  
+select *from CTE 
+
+
+Method 2
+WITH Numbers(Number) AS (
+
+SELECT 1
+
+UNION ALL
+
+SELECT Number + 1
+
+FROM Numbers
+
+WHERE Number <= 99
+
+)
+
+SELECT * FROM Numbers
+
+
+
